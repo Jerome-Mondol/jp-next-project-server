@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "name": "Laptop",
+    "description": "A high-performance laptop for work and gaming.",
+    "price": 999.99,
+    "image": "https://picsum.photos/300/200?random=1"
+  },
+  {
+    "id": 2,
+    "name": "Smartphone",
+    "description": "Latest smartphone with advanced features.",
+    "price": 699.99,
+    "image": "https://picsum.photos/300/200?random=2"
+  },
+  {
+    "id": 3,
+    "name": "Noise-cancelling wireless headphones.",
+    "price": 199.99,
+    "image": "https://picsum.photos/300/200?random=3"
+  },
+  {
+    "id": 4,
+    "name": "jerome",
+    "description": "sasa",
+    "price": 296,
+    "image": "http:...hello"
+  }
+]
